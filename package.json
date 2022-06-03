@@ -1,0 +1,31 @@
+{
+  "name": "firebase-nextjs-course",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.9.0",
+    "@emotion/styled": "^11.8.1",
+    "@mui/icons-material": "^5.8.0",
+    "@mui/material": "^5.8.1",
+    "@mui/styled-engine-sc": "^5.8.0",
+    "firebase": "^9.8.2",
+    "firebase-admin": "^10.2.0",
+    "moment": "^2.29.3",
+    "next": "12.1.6",
+    "nookies": "^2.5.2",
+    "react": "18.1.0",
+    "react-dom": "18.1.0",
+    "react-loading": "^2.0.3",
+    "styled-components": "^5.3.5"
+  },
+  "devDependencies": {
+    "eslint": "8.16.0",
+    "eslint-config-next": "12.1.6"
+  }
+}
